@@ -2,11 +2,29 @@
 
 **`Desenvolvedor Mobile`**
 
-Me chamo Fabrício Dias, tenho 20 anos e sou de Indaiatuba, São Paulo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e sempre fui muito apaixonado por tecnologia, e foi por esse caminho que decidi seguir desde os meus 17 anos. Meu foco atual é a área Mobile com React Native, e compartilho meus conhecimentos, projetos e desafios no meu perfil do LinkedIn "[Fabrício Dias](https://www.linkedin.com/in/fcdias0812)".
+Me chamo Fabrício Dias, tenho 20 anos e sou de Indaiatuba, São Paulo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e sempre fui muito apaixonado por tecnologia, e foi por esse caminho que decidi seguir desde os meus 17 anos. Meu foco atual é o desenvolvimento fullstack com foco em React e React Native, e compartilho meus conhecimentos, projetos e desafios no meu perfil do LinkedIn "[Fabrício Dias](https://www.linkedin.com/in/fcdias0812)".
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML" 
+    title="HTML5"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS3" 
+    title="CSS3"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
 
 <img 
     align="left" 
