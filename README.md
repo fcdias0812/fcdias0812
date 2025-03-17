@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Fabrício Dias, tenho 21 anos e sou de Indaiatuba, São Paulo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas e sempre fui muito apaixonado por tecnologia, e foi por esse caminho que decidi seguir desde os meus 17 anos. Meu foco atual é o desenvolvimento fullstack com foco em React e React Native, e compartilho meus conhecimentos, projetos e desafios no meu perfil do LinkedIn "[Fabrício Dias](https://www.linkedin.com/in/fcdias0812)".
+Desenvolvedor Mobile apaixonado por criar aplicativos que entregam experiências incríveis aos usuários. Trabalho com React Native, Expo, TypeScript e Firebase, construindo apps responsivos e performáticos. Compartilho meus conhecimentos, projetos e desafios no meu perfil do LinkedIn "[Fabrício Dias](https://www.linkedin.com/in/fcdias0812)".
 
 ---
 
