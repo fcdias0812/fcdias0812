@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Desenvolvedor Mobile apaixonado por criar aplicativos que entregam experiências incríveis aos usuários. Trabalho com React Native, Expo, TypeScript e Firebase, construindo apps responsivos e performáticos. Compartilho meus conhecimentos, projetos e desafios no meu perfil do LinkedIn "[Fabrício Dias](https://www.linkedin.com/in/fcdias0812)".
+🚀 Desenvolvedor Full Stack, apaixonado por criar aplicações web e mobile escaláveis. Tenho experiência com HTML, CSS e JavaScript, além de desenvolver aplicações com React.js e React Native. No back-end, utilizo Node.js com Firebase como banco de dados, e estou aprimorando minhas habilidades com TypeScript.. Compartilho meus conhecimentos, projetos e desafios no meu perfil do LinkedIn "[Fabrício Dias](https://www.linkedin.com/in/fcdias0812)".
 
 ---
 
@@ -60,19 +60,11 @@ Desenvolvedor Mobile apaixonado por criar aplicativos que entregam experiências
 />
 <img 
     align="left" 
-    alt="AWS"
-    title="AWS" 
+    alt="Firebase" 
+    title="Firebase"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker"
-    title="Docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
 />
 <img 
     align="left" 
@@ -81,14 +73,6 @@ Desenvolvedor Mobile apaixonado por criar aplicativos que entregam experiências
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
 <br/>
