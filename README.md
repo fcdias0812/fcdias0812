@@ -2,7 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-🚀 Desenvolvedor Full Stack, apaixonado por criar aplicações web e mobile escaláveis. Tenho experiência com HTML, CSS e JavaScript, além de desenvolver aplicações com React.js e React Native. No back-end, utilizo Node.js com Firebase como banco de dados, e estou aprimorando minhas habilidades com TypeScript.. Compartilho meus conhecimentos, projetos e desafios no meu perfil do LinkedIn "[Fabrício Dias](https://www.linkedin.com/in/fcdias0812)".
+Software Engineer com foco em desenvolvimento Full Stack Web e Mobile, utilizando React.js, React Native, Node.js e Firebase. Desenvolvo soluções com código limpo, escalável e responsivo, aplicando boas práticas de arquitetura e integração com APIs REST.
+
+Experiência com TypeScript, versionamento com Git/GitHub, deploy com Vercel e Firebase, e familiaridade com metodologias ágeis.
+
+Compartilho meus conhecimentos, projetos e desafios no meu perfil do LinkedIn "[Fabrício Dias](https://www.linkedin.com/in/fcdias0812)".
 
 ---
 
