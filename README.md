@@ -2,8 +2,9 @@
 
 ---
 
-Olá! Me chamo Fabrício Dias, tenho 21 anos e curso Análise e Desenvolvimento de Sistemas na Fatec de Indaiatuba/SP. Atualmente sou Software Engineer com foco em desenvolvimento Full Stack Web e Mobile, utilizando React.js, React Native, Node.js e Firebase. Desenvolvo soluções com código limpo, escalável e responsivo, aplicando boas práticas de arquitetura e integração com APIs REST.
-Experiência com TypeScript, versionamento com Git/GitHub, deploy com Vercel e Firebase, e familiaridade com metodologias ágeis.
+Olá! Me chamo Fabrício Dias, tenho 21 anos e curso Análise e Desenvolvimento de Sistemas na Fatec de Indaiatuba/SP. Atualmente sou Software Engineer com foco em desenvolvimento Full Stack Web e Mobile, utilizando React.js, React Native, Node.js e Firebase.
+
+Desenvolvo soluções com código limpo, escalável e responsivo, aplicando boas práticas de arquitetura e integração com APIs REST. Experiência com TypeScript, versionamento com Git/GitHub, deploy com Vercel e Firebase, e familiaridade com metodologias ágeis.
 
 Compartilho meus conhecimentos, projetos, oportunidades e desafios no meu perfil do LinkedIn "[Fabrício Dias](https://www.linkedin.com/in/fcdias0812)".
 
@@ -31,8 +32,8 @@ Compartilho meus conhecimentos, projetos, oportunidades e desafios no meu perfil
     </a> 
     <a href="https://x.com/fcdias0812">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Twitter" 
+            title="Twitter" 
             src="    https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
         />
     </a>
@@ -148,7 +149,7 @@ Compartilho meus conhecimentos, projetos, oportunidades e desafios no meu perfil
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="175" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=fcdias0812&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
   />
@@ -156,7 +157,7 @@ Compartilho meus conhecimentos, projetos, oportunidades e desafios no meu perfil
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="175" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcdias0812&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
