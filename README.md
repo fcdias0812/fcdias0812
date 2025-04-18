@@ -2,11 +2,12 @@
 
 ---
 
-Olá! Me chamo Fabrício Dias, tenho 21 anos e curso Análise e Desenvolvimento de Sistemas na Fatec de Indaiatuba/SP. Atualmente sou Software Engineer com foco em desenvolvimento Full Stack Web e Mobile, utilizando React.js, React Native, Node.js e Firebase.
+Olá! Sou o Fabrício Dias, Desenvolvedor Full Stack focado em aplicações Web e Mobile modernas, utilizando React.js, React Native, Node.js, Firebase e TypeScript. Tenho 21 anos e curso Análise e Desenvolvimento de Sistemas na FATEC de Indaiatuba/SP.
 
-Desenvolvo soluções com código limpo, escalável e responsivo, aplicando boas práticas de arquitetura e integração com APIs REST. Experiência com TypeScript, versionamento com Git/GitHub, deploy com Vercel e Firebase, e familiaridade com metodologias ágeis.
+Gosto de construir soluções com código limpo, performático e de fácil manutenção. Sigo boas práticas de arquitetura, integração com APIs REST e versionamento com Git/GitHub. Tenho experiência com Docker, Vercel, metodologias ágeis e ferramentas de cloud como Firebase e AWS.
 
-Compartilho meus conhecimentos, projetos, oportunidades e desafios no meu perfil do LinkedIn "[Fabrício Dias](https://www.linkedin.com/in/fcdias0812)".
+Aqui compartilho meus projetos, estudos e desafios na jornada como dev.
+Vamos nos conectar? Estou no [LinkedIn](https://www.linkedin.com/in/fcdias0812) como [Fabrício Dias](https://www.linkedin.com/in/fcdias0812).
 
 <p align="left">
     <a href="mailto:dias.fabricio0812@gmail.com.br">
