@@ -14,7 +14,7 @@ jobs:
           github_user_name: fcdias0812
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?color_snake=orange&color_dots=#1a1b27,#ebedf0,#c6e48b,#7bc96f,#239a3b
+            dist/github-contribution-grid-snake-dark.svg?color_snake=orange&color_dots=#ffffff,#bfd195,#80b139,#40911d,#007101
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
