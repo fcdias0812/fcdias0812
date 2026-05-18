@@ -51,7 +51,7 @@ Estou buscando minha **primeira oportunidade como Desenvolvedor Java Júnior**, 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fcdias0812/fcdias0812/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/fcdias0812/fcdias0812/output/github-contribution-grid-snake-dark.svg?v=1" />
 </div>
 
 ---
