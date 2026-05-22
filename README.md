@@ -1,44 +1,37 @@
 # Olá, eu sou o Fabrício Dias! 👋
 
-### Técnico Eletrônico e Engenheiro de Software
+### Técnico de TI | Infraestrutura, Hardware e Automação
 📍 Indaiatuba, SP &nbsp;|&nbsp; 📧 fcdias.pro@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/fcdias0812)
 
 ---
 
 ## Sobre mim
 
-Profissional de TI com experiência sólida em infraestrutura de hardware, suporte técnico e operações de data center na **Re-Teck Brasil**. Atualmente, sou responsável pelo ciclo de vida técnico de ativos de alto valor, desde servidores e desktops até componentes críticos como CPUs Xeon, memórias ECC e unidades de armazenamento.
+Especialista técnico com sólida experiência em **infraestrutura de hardware, suporte avançado e operações de logística reversa/data center** na Re-Teck Brasil. Atuo no ciclo de vida completo de ativos de alto valor, garantindo a integridade, performance e sanitização de dados em equipamentos críticos.
 
-Minha base técnica em hardware e lógica de sistemas me deu uma visão diferenciada sobre como o software e o hardware se conectam, e é exatamente isso que estou levando para o mundo do desenvolvimento.
-
-Hoje estou em transição para a área de **Engenharia de Software**, com foco em **Java Fullstack**, estudando o ecossistema **Spring Boot** no backend e **Angular** no frontend, buscando oportunidades como **Desenvolvedor Java Júnior**.
+Minha trajetória é marcada pela união entre o mundo físico (**Hardware Enterprise**) e a eficiência digital (**Automação e Software**). Acredito que a tecnologia deve ser escalável, por isso utilizo IA e scripts para
 
 ---
 
-## 🚀 O que estou estudando
+## 🛠️ Expertise Técnica
 
-- ☕ **Java** — Lógica, Algoritmos e Orientação a Objetos
-- 🌱 **Spring Boot** — APIs REST, JPA, Spring Security, JWT
-- 🅰️ **Angular** — Componentes, Serviços e consumo de APIs
-- 🗄️ **SQL / PostgreSQL** — Modelagem e consultas relacionais
-- 🐳 **Docker** — Containers e ambientes de desenvolvimento
-- 🔧 **Git & GitHub** — Controle de versão e colaboração
-- ☁️ **AWS** — Fundamentos de cloud, EC2, S3 e deploy de aplicações Java
-- 🐧 **Linux** — Administração de servidores, linha de comando e ambientes de produção
-- 🎨 **Figma** — Prototipação de interfaces para guiar o desenvolvimento frontend
+### **Infraestrutura e Hardware**
+*   **Servidores e Workstations:** Diagnóstico e triagem de CPUs Xeon, Memórias ECC e sistemas RAID (Dell, HP, etc).
+*   **Multi-OS:** Troubleshooting e otimização em Windows (predominante), MacOS e Linux.
+*   **Storage & Benchmarking:** Testes de estresse de GPU (Furmark/Valley), análise de saúde de SSDs/HDDs de todas as gerações e validação de memórias DDR4/DDR5.
+*   **Data Sanitization:** Execução de processos de Data Wipe e geração de relatórios técnicos automatizados.
+
+### **Automação e Desenvolvimento**
+*   **Linguagens:** JavaScript (React, Vite, Next, Node, Express), PowerShell e Python para automação de tarefas.
+*   **Banco de Dados:** PostgreSQL.
+*   **Cloud & DevOps:** Fundamentos de AWS (EC2, S3), Docker e Git/GitHub.
+*   **Data:** Gestão de inventários complexos e análise de dados técnicos via Excel Avançado.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,typescript,postgresql,docker,git,github,linux,figma&theme=light)](https://skillicons.dev)
-
----
-
-
-## 🎯 Objetivo Profissional
-
-Estou buscando minha **primeira oportunidade como Desenvolvedor Java Júnior**, preferencialmente em empresas do setor financeiro, bancário ou de grande porte, onde possa aplicar minha base técnica sólida e minha visão de infraestrutura para construir sistemas robustos, seguros e escaláveis.
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,vite,next,nodejs,express,powershell,python,postgresql,aws,docker,git,github,linux&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -58,7 +51,7 @@ Estou buscando minha **primeira oportunidade como Desenvolvedor Java Júnior**, 
 
 ## 📫 Vamos conversar?
 
-Se você é recrutador, desenvolvedor ou simplesmente quer trocar uma ideia sobre tecnologia, pode me chamar!
+Se você busca um profissional que entende o que acontece "debaixo do capô" do software e domina a infraestrutura necessária para rodá-lo, vamos trocar uma ideia!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcdias0812)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fcdias.pro@gmail.com)
