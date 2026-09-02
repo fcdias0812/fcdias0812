@@ -9,7 +9,7 @@
 
 Especialista técnico com sólida experiência em **infraestrutura de hardware, suporte avançado e operações de logística reversa/data center** na Re-Teck Brasil. Atuo no ciclo de vida completo de ativos de alto valor, garantindo a integridade, performance e sanitização de dados em equipamentos críticos.
 
-Minha trajetória é marcada pela união entre o mundo físico (**Hardware Enterprise**) e a eficiência digital (**Automação e Software**). Acredito que a tecnologia deve ser escalável, por isso utilizo IA e scripts para
+Minha trajetória é marcada pela união entre o mundo físico (**Hardware Enterprise**) e a eficiência digital (**Automação e Software**). Acredito que a tecnologia deve ser escalável, por isso utilizo scripts e automação para reduzir tempo de triagem e padronizar processos técnicos.
 
 ---
 
@@ -19,11 +19,11 @@ Minha trajetória é marcada pela união entre o mundo físico (**Hardware Enter
 *   **Servidores e Workstations:** Diagnóstico e triagem de CPUs Xeon, Memórias ECC e sistemas RAID (Dell, HP, etc).
 *   **Multi-OS:** Troubleshooting e otimização em Windows (predominante), MacOS e Linux.
 *   **Storage & Benchmarking:** Testes de estresse de GPU (Furmark/Valley), análise de saúde de SSDs/HDDs de todas as gerações e validação de memórias DDR4/DDR5.
-*   **Data Sanitization:** Execução de processos de Data Wipe e geração de relatórios técnicos automatizados.
+*   **Data Sanitization:** Execução de processos de Data Wipe (ZipErase, Blancco) seguindo NIST SP 800-88 Rev. 2, com geração de relatórios técnicos automatizados.
 
 ### **Automação e Desenvolvimento**
-*   **Linguagens:** JavaScript (React, Vite, Next, Node, Express), PowerShell e Python para automação de tarefas.
-*   **Banco de Dados:** PostgreSQL.
+*   **Linguagens:** JavaScript (React, Vite, Node, Express), Java (Spring Boot, em estudo), PowerShell e Python para automação de tarefas.
+*   **Banco de Dados:** SQLite, PostgreSQL.
 *   **Cloud & DevOps:** Fundamentos de AWS (EC2, S3), Docker e Git/GitHub.
 *   **Data:** Gestão de inventários complexos e análise de dados técnicos via Excel Avançado.
 
@@ -31,7 +31,7 @@ Minha trajetória é marcada pela união entre o mundo físico (**Hardware Enter
 
 ## 🛠️ Tecnologias & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,vite,next,nodejs,express,powershell,python,postgresql,aws,docker,git,github,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,vite,next,angular,nodejs,express,java,spring,powershell,python,sqlite,postgresql,aws,docker,git,github,linux&theme=light)](https://skillicons.dev)
 
 ---
 
